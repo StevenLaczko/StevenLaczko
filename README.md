@@ -1,5 +1,5 @@
-- Hi, I’m @StevenLaczko. I recently graduated from UMBC with a BS in computer science and a minor in math.
-- I think it would be cool if we all went back to saying *programming* instead of *developing apps*.
-- I run base Debian with AwesomeWM.
+- Hi, I’m @StevenLaczko. I got a bach' in compsci with a minor in math.
+- I think it would be cool if we all went back to saying *programming* or *coding* instead of *dEvElOpInG aPpS*.
+- I run Linux Mint babee. Call me basic. It's so good.
 - I am a Vim lover. Well, NeoVim, now.
-- You can always reach my at my email, StevenDLaczko@gmail.com
+- Down with technocrats <3
